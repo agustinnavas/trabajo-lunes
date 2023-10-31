@@ -5,7 +5,7 @@ public class LibrosDTO {
 	
 	//ATRIBUTOS
 	
-	private Long id;
+	private Integer id;
 	
 	private String titulo;
 	

@@ -2,7 +2,7 @@ package com.example.practicalunes2.model;
 
 public class UsuarioDTO {
 	
-	private Long id;
+	private Integer id;
 	
 	private String nombre;
 	
